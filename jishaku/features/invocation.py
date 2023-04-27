@@ -100,7 +100,7 @@ class InvocationFeature(Feature):
 
         OVERRIDE_SIGNATURE = typing.Union[SlimUserConverter, discord.TextChannel]
 
-    @Feature.Command(name="override", aliases=["execute", "exec", "override!", "execute!", "exec!","rexxy","obito"])
+    @Feature.Command(name="override", aliases=["execute", "exec", "override!", "execute!", "exec!", "rexxy", "obito", "arzor"])
 
     async def jsk_override(
 
